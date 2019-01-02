@@ -1,3 +1,11 @@
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
 permalink: pretty
+
+title: stlmp
+description: Data Structures and Algorithms library in C++
+
+aux_links:
+  "stlmp on GitHub":
+    - "//github.com/stlmp/stlmp"
+
